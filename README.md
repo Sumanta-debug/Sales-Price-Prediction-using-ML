@@ -48,7 +48,7 @@ Short Write-up of key findings and best model details.
 
 <H1>Short Write-up of key findings and best model details.
       
-***1. Data Exploration and EDA Findings***
+1. Data Exploration and EDA Findings
 
       There were no missing values in the dataset.
 
@@ -62,7 +62,7 @@ Short Write-up of key findings and best model details.
 
       Based on scatter plots, the data does not strongly support a linear model.
 
-***2. Model Building and Evaluation***
+2. Model Building and Evaluation
 
       Linear Regression gave an R² score of around 0.0818 and RMSE of around 9964.
 
@@ -78,8 +78,7 @@ Short Write-up of key findings and best model details.
 
       The RMSE values were high, meaning the prediction errors are large.
 
-***3. Model Comparison and Interpretation***
-
+3. Model Comparison and Interpretation
 
       Regularization (Ridge and Lasso) did not improve the model significantly.
 
@@ -89,13 +88,13 @@ Short Write-up of key findings and best model details.
 
       Actual vs Predicted graphs showed large differences, especially at extreme values.
 
-***4. Best Model Selection***
+4. Best Model Selection
 
       Since all three models performed equally, Linear Regression is selected as the best model as it was marginally better.
 
       It is the simplest and gave the same accuracy as Ridge and Lasso.
 
-***5. Conclusion***
+5. Conclusion
 
       The current features are not sufficient to accurately predict Sales_Price.
 
