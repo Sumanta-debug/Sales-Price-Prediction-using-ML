@@ -150,11 +150,8 @@ It is the simplest and gave the same accuracy as Ridge and Lasso.
 
 5. Conclusion and Next Steps
 The current features are not sufficient to accurately predict Sales_Price.
-
 Model performance is poor due to low explanatory power of the variables.
-
 To improve predictions, we need to add new features or transform existing ones.
-
 Possible improvements include feature engineering, adding external variables, or trying non-linear models.
 
 
