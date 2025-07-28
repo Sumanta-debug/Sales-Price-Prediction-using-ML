@@ -46,6 +46,7 @@ Jupyter Notebook (.ipynb) with code, outputs, and explanations.
 Visualization Report (PDF or within notebook).
 Short Write-up of key findings and best model details.
 
+
 <H1>Short Write-up of key findings and best model details.
       
 ***1. Data Exploration and EDA Findings***
@@ -104,5 +105,4 @@ Short Write-up of key findings and best model details.
       To improve predictions, we need to add new features or transform existing ones.
 
       Possible improvements include feature engineering, adding external variables, or trying non-linear models.
-
 
