@@ -47,6 +47,7 @@ Visualization Report (PDF or within notebook).
 Short Write-up of key findings and best model details.
 
 <H1>Short Write-up of key findings and best model details.
+      
 ***1. Data Exploration and EDA Findings***
 
       There were no missing values in the dataset.
